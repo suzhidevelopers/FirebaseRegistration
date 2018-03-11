@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "904868082930",
+    "firebase_url": "https://fir-registration-b18b3.firebaseio.com",
+    "project_id": "fir-registration-b18b3",
+    "storage_bucket": "fir-registration-b18b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904868082930:android:2ecc08f2cdf2d972",
+        "android_client_info": {
+          "package_name": "com.suzhi.firebaseregistration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904868082930-pgds1d2lt65fd7hh861bfqs3s0malftv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFschFM9J-1PMgtZp0vtRtB-Gg3ueJTsc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
